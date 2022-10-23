@@ -1,0 +1,31 @@
+
+body{
+    background-color: #D2DAFF;
+
+}
+
+hr{
+    border-style: none;
+    border-top-style: solid;
+    border-color:#EEF1FF;
+    border-width: 2px;
+}
+
+h1{
+    color: #645CAA;
+
+}
+
+img{
+    border-radius: 50%;
+    height: 150px;
+}
+
+h3{
+    color: #645CAA;
+}
+
+a:hover{
+    color:#FFABE1;
+}
+
